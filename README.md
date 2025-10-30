@@ -1,4 +1,4 @@
-# Food-delivery-App Project
+<img width="402" height="262" alt="image" src="https://github.com/user-attachments/assets/ca0d05f1-f331-491b-867a-a62751248c7f" /># Food-delivery-App Project
 
 A full-stack food delivery application built with a monorepo structure:
 
@@ -12,14 +12,19 @@ A full-stack food delivery application built with a monorepo structure:
 
 ---
 
-## Features
+## Key Features
+
+- 🚚 **Realtime Map Live Tracking** (Google Maps + Socket.io)
+- ✅ **Google Authentication** (Google One Tap Login)
+- 💳 **Razorpay Payment Gateway Integration**
+- 🔑 **Password Reset with Email OTP**
+- 🛒 **Cart, Checkout & Order History**
 - User authentication & roles
 - Shop & item management
 - Order placement & real-time tracking
-- Delivery assignment
+- Delivery assignment to delivery boys
 - Dashboard for users and owners
 - Modern responsive UI
-
 ## Getting Started
 
 ### 1. Clone the repository
@@ -67,5 +72,6 @@ npm run dev
 This project is licensed for educational/personal use.
 
 ---
+
 
 _Clone, run, hack, and enjoy!_
